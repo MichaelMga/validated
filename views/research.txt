@@ -1,0 +1,99 @@
+
+pomodoro == 
+
+ 18h00-19h00 :
+
+ build an algorithm to maximize KYC :
+
+ 
+ -what are the algorithms used?
+
+Should we use an existing algorithm/ buy it?
+
+
+Machine learning brings up to : 57% savings in the KYC process
+
+https://www.actico.com/blog-en/why-machine-learning-brings-up-to-57-savings-in-the-kyc-process/
+
+
+
+Machine learning is fundamental in the process.
+
+The high volume of transactional and customer data readily available in the
+
+financial services sector makes it ideal.
+
+Observing customer's behavioural patterns for any signs of abnormality,
+
+giving them the ability to identify an
+
+https://www.netguru.com/blog/fraud-detection-with-machine-learning-banking
+
+
+
+
+
+There are 2 types of ML algorithms used in fraud detection :
+
+supervised and unsupervised learning.
+
+
+
+Here are basically the methods used by those systems :
+
+-Decision trees : set of rules (is this normal?)
+
+
+
+Why AI/ML for AML/KYC has failed (so far) :
+
+https://medium.com/@BenCharoenwong/the-one-reason-why-machine-learning-for-aml-kyc-has-failed-so-far-38e3388ad85c
+
+
+21:00 :
+
+algorithm
+
+
+why do banks and ask for proof of id? (BSA).
+
+
+https://www.bsa.org.uk/BSA/files/14/14ebf1ea-a92a-43f8-bd4a-52301ab172c6.pdf
+
+
+Companies need to conform to the "money laundering regulatios" to stop criminals from using them to launder money.
+
+
+what has this do with banks.
+
+So, that's the point ==> preventing money laundering.
+
+
+
+Signs of money laundering :
+
+So, we browsed litterature, and looked for the "red flags" documented.
+
+
+
+
+Why some banks ask for id for a cash depost :
+
+https://www.patrickkphillips.com/life/why-some-banks-ask-for-id-for-a-cash-deposit/
+
+
+
+After browsing all subjects, it is very clear : the purpose of this system is to prevent money laundering.
+
+
+Prevent money laundering by requiring confirmation that any cash deposits are going into the accounts that belong specifically to the depositor.
+
+Ok, so that can be a proof this person actually receives a salary.
+
+
+
+I'll tell him : ok, first draft. I keep building it.
+
+
+
+
